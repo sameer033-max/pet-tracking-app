@@ -1,0 +1,72 @@
+You are tasked with designing and developing an app called Pet Routine Tracker. The goal is to help pet owners manage their pets' daily routines and healthcare tasks. Below are the core requirements:
+
+🐾 App Name:
+Pet Routine Tracker
+
+🔥 Problem to Solve:
+Many pet owners forget important tasks like feeding, walking, or administering vaccines to their pets. This can impact the health and well-being of pets.
+
+🔧 Key Features:
+Daily Routine Checklist:
+
+Customizable task list per pet (e.g., feeding, walking, brushing).
+
+Repeating task support with reminders.
+
+Visual checkboxes to mark tasks as complete.
+
+Vaccine Reminder:
+
+Schedule vaccines with due dates.
+
+Notification system for upcoming and overdue vaccines.
+
+Attach notes or documents (e.g., vet reports).
+
+Pet Diary:
+
+Add daily notes, photos, or observations about the pet.
+
+Track moods, behavior, or medical symptoms.
+
+Timeline view or calendar integration.
+
+✅ Strategic Note:
+The app should be designed with synergy for the Lappet channel in mind — it may integrate with or promote pet-related content or communities through this channel. Include APIs or embed options for content feeds, video, or articles from Lappet.
+
+👥 User Flow:
+Onboarding:
+
+Add pet(s) with name, type, breed, age, and photo.
+
+Choose routine items or import suggested templates based on pet type.
+
+Dashboard:
+
+Shows daily checklist, vaccine alerts, and diary summary.
+
+Notifications:
+
+Smart reminders based on the schedule.
+
+Summary of missed or upcoming tasks.
+
+Settings:
+
+Add/edit pet profiles.
+
+Customize notification preferences.
+
+🖌️ Design Requirements:
+Clean, friendly UI.
+
+Icons and colors suitable for pet lovers (soft colors, paw-print motifs, etc.).
+
+Mobile-first design (but scalable to web).
+
+🧠 Optional AI Features (if possible):
+Smart suggestions for routines based on pet breed and age.
+
+Mood detection based on diary entries or photo sentiment analysis.
+
+Please generate app wireframes, backend architecture, and a minimum viable product (MVP) development plan based on this.
